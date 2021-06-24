@@ -4,6 +4,7 @@ public class Name {
   System.out.println("Hello\nAlexandra Abramov!");
   System.out.println("This is Vinay");
   System.out.println("Jenkins");
+  System.out.println("Clone/Checkout");
  }
  
 }
